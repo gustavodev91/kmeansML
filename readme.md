@@ -1,3 +1,5 @@
+Projeto para classificação de dados em uma base, através do algoritmo Kmeans
+
 Para executar o arquivo "kMeans.py" é necessário ter as seguintes bibliotecas instaladas
 
 pandas
